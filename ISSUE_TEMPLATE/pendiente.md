@@ -6,9 +6,11 @@ labels: []
 ---
 
 <!--
-Antes de crear el issue, agrega dos etiquetas:
+Créalo en el REPO DE ISSUES del proyecto (el que tiene el topic repo-de-issues), aunque el problema esté en otro repo.
+Agrega tres etiquetas:
 1. La del proyecto (su identificador, por ejemplo camilo-barbosa).
-2. Una sola de tipo:
+2. Una de área: área: diseño o área: desarrollo.
+3. Una sola de tipo:
    - tipo: insumo      → falta un dato, texto o material que entrega otra persona
    - tipo: aclaración  → pregunta o validación que resuelve otra persona
    - tipo: decisión    → elección técnica o de equipo por tomar
